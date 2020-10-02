@@ -203,6 +203,12 @@ Q: Why was the JavaScript developer sad?
 
 A: Because he didn't Node how to Express himself.
 
+---
+
+Q: Why did the developer say to his boss during his performance review?
+
+A: I need arrays!
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 [website]: https://www.instagram.com/coding_valley_/
